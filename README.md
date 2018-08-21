@@ -1,4 +1,4 @@
-# README - Project 6 for Udacity Front End Nanodegree
+# Restaurant Reviews App Project
 
 **What is that?**
 
