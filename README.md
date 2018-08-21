@@ -1,7 +1,5 @@
 # README - Project 6 for Udacity Front End Nanodegree
 
-**Creator**: Michele "*Dev_Mikko*" De Palma
-
 **What is that?**
 
 It's an improved versione of "Restaurant Reviews" web app. This is the list of improvement:
@@ -21,7 +19,7 @@ It's an improved versione of "Restaurant Reviews" web app. This is the list of i
 
 **Credits**:
 
-- Michele "*Dev_Mikko*" De Palma
+- Luca Casamassima
 - Udacity for the base code of the project
 - MapBox for the maps API
 - Python for the local server functions
